@@ -137,4 +137,4 @@ Au cours de ma formation, j'ai obtenu plusieurs certifications, notamment :
 
 ##  Merci pour votre visite !
 
-N'hésitez pas à explorer mes projets, à laisser une étoile ⭐ ou à me contacter pour échanger autour d'un projet de communication digitale, de création de contenu ou de développement web.
+N'hésitez pas à explorer mes projets, à laisser une étoile ou à me contacter pour échanger autour d'un projet de communication digitale, de création de contenu ou de développement web.
