@@ -1,6 +1,6 @@
 # Ines-IDOHOU
 Portfolio Ines
-# Bonjour, je suis Inès IDOHOU
+# Je suis Inès IDOHOU
 
 ## Référente Digitale | Créatrice de contenu | Community Manager | Designer Graphique
 
